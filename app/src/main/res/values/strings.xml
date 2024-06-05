@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">BMICalculator</string>
-    <string name="main_activity_click_button">Click me</string>
-    <string name="main_activity_welcome_text">Welcome to my first App</string>
-    <string name="main_activity_click_text">I clicked the button</string>
+    <string name="main_activity_click">Calculate</string>
+
 </resources>
